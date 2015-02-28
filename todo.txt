@@ -1,8 +1,9 @@
-[ ] end rebellion
+[ X ] end rebellion
 [ ] make battle station fully operational
 [ ] lighting hands??
 [ ] investigate draft in the office
-[ X ] wrinkle cream
 [ ] add some other things
+[ ] wrinkle cream
+[ X ] add some other things
 [ ] more things to add
 [ ] more stuff here
