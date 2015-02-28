@@ -2,7 +2,7 @@
 [ ] make battle station fully operational
 [ ] lighting hands??
 [ ] investigate draft in the office
-[ ] wrinkle cream
+[ X ] wrinkle cream
 [ ] add some other things
 [ ] more things to add
-[ ]
+[ ] more stuff here
